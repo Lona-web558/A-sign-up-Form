@@ -1,0 +1,28 @@
+div{
+    text-align: center;
+    border-bottom-width: 400px;
+    border-left-width: 400px;
+    border-right-width: 400px;
+    border-top-width: 400px;
+    border-color: deepskyblue;
+    border-style: solid;
+}
+
+body{
+    background-color: azure;
+}
+h1{
+    font-family: cursive;
+    font-size: xl;
+}
+h3{
+    text-decoration: underline;
+    text-align: center;
+    font-family: fantasy;
+    font-weight: bold;
+}
+h4{
+    text-align: center;
+    font-family: fantasy;
+    font-weight: bold;
+}
